@@ -9,6 +9,7 @@ hitheme     : tomorrow      #
 widgets     : [mathjax]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
+output: html_document
 ---
 
 ## Read-And-Delete
